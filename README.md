@@ -190,6 +190,3 @@ pytest -v --tb=short
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT.
